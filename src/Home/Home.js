@@ -1,6 +1,5 @@
 import React from 'react';
 import blueLindsay from '../assets/blue_lindsay.png';
-import projects from '../Projects/Projects';
 import styles from './Home.module.scss';
 
 const home= (props) =>(

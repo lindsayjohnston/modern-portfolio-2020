@@ -1,0 +1,32 @@
+.ProjectCard{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    h2{
+        cursor: pointer;
+    }
+
+   
+        img{
+            width: 100%;
+            filter: grayscale(100%);   
+        }
+    
+
+    .Hidden{
+        display: none;
+    }
+
+    .Shown{
+        display: unset;
+    }
+
+    p{
+        text-align: center;
+    }
+
+    
+}

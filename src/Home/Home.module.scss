@@ -1,0 +1,62 @@
+.Home{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+    .HomeContent{
+        position: relative;
+        width: 470px;
+        height: 515px;
+        margin-bottom: 100px;
+        // border: pink 1px solid;
+        // margin-top: 40px;
+
+        .Name1{
+            position: absolute;
+            width: 35vw;
+            left: 25px;
+            top: 70px;
+            z-index: 1;
+        }
+
+        .Title{
+            position: absolute;
+            bottom: -20px;
+            right: 8px;
+        }
+
+        img{
+            height: 100%;
+            position: absolute;
+            bottom: 0px;
+            right: 5px;
+           
+            // max-width: 90vw;
+        }
+    }
+
+}
+
+@media (max-width:500px){
+    .Home{
+        .HomeContent{
+            top: 50px;
+            max-height: 70%;
+            margin-bottom: 150px;
+            .Name1{
+                top: 50px;
+                width: 50vw;
+            }
+            img{
+                width: 90vw;
+                height: unset;
+            }
+            .Title{
+                right: 17px;
+            }
+        }
+    }
+}

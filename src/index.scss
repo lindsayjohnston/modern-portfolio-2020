@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+
+$light-color:rgb(247, 232, 193);
+
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif, 'Bungee Shade', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: $light-color;
+  box-sizing: border-box;
+  width: 100vw;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1{
+  margin: 0;
+  font-family: 'Bungee Shade', cursive;
+}
+
+h2{
+  font-weight: normal;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font-style: italic;
+}
+
+a{
+  color: $light-color;
+  text-decoration: none;
+}

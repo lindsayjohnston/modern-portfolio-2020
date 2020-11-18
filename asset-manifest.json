@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/modern-portfolio-2020/static/css/main.bd6023b6.chunk.css",
+    "main.js": "/modern-portfolio-2020/static/js/main.1c91f907.chunk.js",
+    "main.js.map": "/modern-portfolio-2020/static/js/main.1c91f907.chunk.js.map",
+    "runtime-main.js": "/modern-portfolio-2020/static/js/runtime-main.bd6c0bf4.js",
+    "runtime-main.js.map": "/modern-portfolio-2020/static/js/runtime-main.bd6c0bf4.js.map",
+    "static/js/2.0d56e86e.chunk.js": "/modern-portfolio-2020/static/js/2.0d56e86e.chunk.js",
+    "static/js/2.0d56e86e.chunk.js.map": "/modern-portfolio-2020/static/js/2.0d56e86e.chunk.js.map",
+    "static/js/3.d9e31bc5.chunk.js": "/modern-portfolio-2020/static/js/3.d9e31bc5.chunk.js",
+    "static/js/3.d9e31bc5.chunk.js.map": "/modern-portfolio-2020/static/js/3.d9e31bc5.chunk.js.map",
+    "index.html": "/modern-portfolio-2020/index.html",
+    "static/css/main.bd6023b6.chunk.css.map": "/modern-portfolio-2020/static/css/main.bd6023b6.chunk.css.map",
+    "static/js/2.0d56e86e.chunk.js.LICENSE.txt": "/modern-portfolio-2020/static/js/2.0d56e86e.chunk.js.LICENSE.txt",
+    "static/media/Chipotle_screenshot.bea61c8b.png": "/modern-portfolio-2020/static/media/Chipotle_screenshot.bea61c8b.png",
+    "static/media/Lindsay_Johnston_WD_resume_2020.5f8506ef.pdf": "/modern-portfolio-2020/static/media/Lindsay_Johnston_WD_resume_2020.5f8506ef.pdf",
+    "static/media/blue_lindsay.922c78ac.png": "/modern-portfolio-2020/static/media/blue_lindsay.922c78ac.png",
+    "static/media/github_map_screenshot.4bb701bc.png": "/modern-portfolio-2020/static/media/github_map_screenshot.4bb701bc.png",
+    "static/media/lindsay_guitar_blue.0fec0ee5.png": "/modern-portfolio-2020/static/media/lindsay_guitar_blue.0fec0ee5.png",
+    "static/media/vanna_screenshot.ed1a47ed.png": "/modern-portfolio-2020/static/media/vanna_screenshot.ed1a47ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd6c0bf4.js",
+    "static/js/2.0d56e86e.chunk.js",
+    "static/css/main.bd6023b6.chunk.css",
+    "static/js/main.1c91f907.chunk.js"
+  ]
+}

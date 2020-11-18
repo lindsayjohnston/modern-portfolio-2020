@@ -28,7 +28,7 @@ const projectCard = (props) => {
         <div className={styles.ProjectCard}>
             <h2 className={hiddenHeadingClass} onClick={props.click}>{props.title}</h2>
             <div className={hiddenDivClass}>
-                <img src={props.image}></img>
+                <a href={props.link} target="blank"><img src={props.image}></img></a>
                 <p> {props.caption}</p>
             </div>
 

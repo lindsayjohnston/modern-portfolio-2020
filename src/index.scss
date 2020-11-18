@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap');
 
 $light-color:rgb(247, 232, 193);
 
@@ -25,7 +26,7 @@ code {
 
 h1{
   margin: 0;
-  font-family: 'Bungee Shade', cursive;
+  font-family: 'Bungee Shade';
 }
 
 h2{
@@ -34,9 +35,16 @@ h2{
   margin-bottom: 20px;
   font-size: 30px;
   font-style: italic;
+  font-family: 'Roboto';
 }
 
 a{
   color: $light-color;
   text-decoration: none;
+  cursor: pointer;
+  font-family: 'Roboto';
+}
+
+p{
+  font-family: 'Roboto';
 }

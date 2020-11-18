@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import styles from "./Projects.module.scss";
 import chipotleImage from "../assets/Chipotle_screenshot.png";
-import gitHubMapImage from '../assets/GitHub_UserMap_screenshot.png';
-import vannaImage from '../assets/Vanna_screenshot.png';
+import gitHubMapImage from '../assets/github_map_screenshot.png';
+import vannaImage from '../assets/vanna_screenshot.png';
 import ProjectCard from './ProjectCard/ProjectCard';
 
 const projectInfo = [
